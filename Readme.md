@@ -23,3 +23,5 @@ develop remote change 1
 
 develop remote change 2
 rebase local change 1
+
+rebase local change 2
