@@ -14,3 +14,7 @@ rebase two
 rebase three
 
 develop remote change
+
+rebase change 1
+
+rebase change 2
